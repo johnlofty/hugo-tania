@@ -43,7 +43,7 @@ Use Hugo Extended version (recommended) if you want to:
 1. Add `hugo-tania` theme as submodule.
 
 ```bash
-git submodule add https://github.com/WingLim/hugo-tania themes/hugo-tania
+git submodule add https://github.com/johnlofty/hugo-tania themes/hugo-tania
 ```
 
 2. Add `articles` page with [archives](https://github.com/WingLim/hugo-tania/wiki/Layout#archives) layout.
